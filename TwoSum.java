@@ -16,7 +16,6 @@ class Solution {
                }
            }
        }
-       // No solution found
        return new int[0];
    }
 
