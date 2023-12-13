@@ -1,5 +1,5 @@
-
 // Given a sorted and rotated array of unique elements, find and return the minimum element. The rotation can occur between 1 and n times. Your algorithm must run in O(log n) time.
+
 
 // Example:
 
@@ -11,9 +11,6 @@
 // Output: 0
 // Explanation: The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
 
-// Input: nums = [11,13,15,17]
-// Output: 11
-// Explanation: The original array was [11,13,15,17] and it was rotated 4 times.
 
 
 class Solution {
