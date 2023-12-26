@@ -1,4 +1,6 @@
-// Given a sorted and rotated array of unique elements, find and return the minimum element. The rotation can occur between 1 and n times. Your algorithm must run in O(log n) time.
+//Day 4
+//Find Minimum in Rotated Sorted Array 
+//Given a sorted and rotated array of unique elements, find and return the minimum element. The rotation can occur between 1 and n times. Your algorithm must run in O(log n) time.
 
 
 // Example:
